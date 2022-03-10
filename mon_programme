@@ -1,0 +1,11 @@
+BEGIN
+
+U := 8;
+V := [7,5];
+X :=[8,-1,5];
+W := 2 * (U-V);
+afficher(W);
+afficher(U);
+afficher(X);
+
+FIN.
